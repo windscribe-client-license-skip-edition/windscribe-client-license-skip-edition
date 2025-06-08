@@ -1,0 +1,1 @@
+# windscribe-client-license-skip-edition
